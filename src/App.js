@@ -1,10 +1,10 @@
 import './App.css';
-import MouseContainer from './components/MouseContainer';
+import DataFetching2 from './components/DataFetching2';
 
 function App() {
   return (
     <div className="App">
-      <MouseContainer />
+      <DataFetching2 />
     </div>
   );
 }
